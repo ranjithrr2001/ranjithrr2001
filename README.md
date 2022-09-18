@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development and AI/ML**
 
-- 🌱 I’m currently learning **UG in Computer Science discipline in SRM Valliammai Engineering College**
+- 🌱 I’m currently learning **UG Computer Science discipline in SRM Valliammai Engineering College**
 
 - 👯 I’m looking to **Collaborate on internship works where I can build more skills and show off my skills.**
 
