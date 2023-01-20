@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjith Ravichandran</h1>
-<h3 align="center">A passionate noob software and web developer from Chennai,India.</h3>
+<h3 align="center">A passionate software and web developer from Chennai,India.</h3>
 
 - 🔭 I’m currently working on **Web Development and AI/ML**
 
