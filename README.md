@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, This is Ranjith</h1>
-<h3 align="center">A passionate software and web developer from Chennai, India.</h3>
+<h3 align="center">A passionate software and web developer. Also a SAP S/4HANA Enthusiaist</h3>
 
 - 🔭 I’m currently working on **Web Development and AI/ML** and **SAP S/4 HANA**
 
